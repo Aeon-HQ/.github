@@ -1,84 +1,26 @@
-🌌 Aeon HQ
+flowchart TD
+    A([2025 – Identity Phase]):::year --> B([Aeon ID<br/>New identity architecture]):::mod
+    B --> C([Local Crypto Engine<br/>Local-first identity]):::mod
+    C --> D([Secure Flows<br/>New authentication model]):::mod
+    
+    D --> E([2026 – ERP Foundation]):::year
+    E --> F([Modules Core<br/>CRM • Tasks • Projects]):::mod
+    F --> G([Workflow Engine<br/>Events → Conditions → Actions]):::mod
+    G --> H([Identity Integration<br/>Aeon ID → ERP Permissions]):::mod
+    
+    H --> I([2026 Q3 – Infra Layer]):::year
+    I --> J([Aeon Vault<br/>Encrypted storage]):::mod
+    J --> K([Aeon Chain<br/>Modular ledger]):::mod
+    K --> L([Cloud Planning<br/>Unified infra]):::mod
+    
+    L --> M([2026 Q4 – Product Launch]):::year
+    M --> N([ERP UI<br/>First business users]):::mod
+    N --> O([Docs • Beta • Onboarding]):::mod
+    
+    O --> P([2027+ – Expansion]):::year
+    P --> Q([Advanced Modules<br/>HR • Inventory • Budgeting]):::mod
+    Q --> R([Vault/Chain v2<br/>More automation]):::mod
+    R --> S([Aeon Cloud v1<br/>Deployments and infra]):::mod
 
-Secure identity. Modular systems. Modern infrastructure.
-
-Aeon builds a new generation of tools focused on security, clarity and long-term maintainability.
-Our ecosystem starts with a strong identity layer and extends into modular business systems and infrastructure.
-
-⸻
-
-🔐 Aeon ID
-
-Aeon ID is a new identity architecture designed from scratch.
-It relies on a local-first cryptographic model, predictable flows and a clean internal structure — not on legacy authentication methods.
-
-It serves as the trust layer for everything in the Aeon ecosystem.
-
-➡️ Repository: aeon-id (public)
-➡️ Core engine: aeon-id-core (private)
-
-⸻
-
-🏢 Aeon ERP
-
-Aeon ERP is the operational backbone of the platform.
-It aims to provide a modern, modular and understandable ERP foundation that avoids the complexity, rigidity and opacity of traditional systems.
-
-Identity, permissions and sensitive actions are handled directly through Aeon ID.
-
-➡️ Repository: aeon-erp (public)
-➡️ Core implementation: aeon-erp-core (private)
-
-⸻
-
-🔒 Aeon Vault (upcoming)
-
-Encrypted storage and key-management layer built for sensitive data and secure workflows.
-
-⸻
-
-⛓️ Aeon Chain (upcoming)
-
-Lightweight modular chain designed for business logic, auditability and identity-backed operations.
-
-⸻
-
-☁️ Aeon Cloud (upcoming)
-
-Infrastructure built around identity, privacy and modular deployment.
-
-⸻
-
-🧭 Vision
-
-Aeon aims to provide a consistent, secure and understandable foundation for modern software.
-We don’t combine existing technologies — we design architectures from the ground up with a focus on:
-	•	clarity
-	•	strong identity guarantees
-	•	predictable behavior
-	•	modular growth
-	•	long-term maintainability
-
-Our identity layer powers the ERP.
-The ERP powers the applications.
-And the whole ecosystem rests on a secure and coherent model.
-
-⸻
-
-📚 Public Repositories
-	•	aeon-id — identity architecture (public)
-	•	aeon-erp — ERP foundation (public)
-
-⸻
-
-🔒 Private Core Repositories
-	•	aeon-id-core — identity engine
-	•	aeon-erp-core — ERP engine
-	•	aeon-vault — encrypted storage
-	•	aeon-chain — modular chain
-
-⸻
-
-📫 Contact
-
-contact@aeon-systems.com
+    classDef year fill:#1f1f1f,stroke:#0ff,stroke-width:2px,color:#0ff;
+    classDef mod fill:#111,stroke:#444,stroke-width:1px,color:#fff;
