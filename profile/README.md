@@ -6,35 +6,9 @@ Aeon builds a new generation of tools focused on security, clarity and long-term
 
 ⸻
 
-🔐 StrucTime ID
+🏢 StrucTime
 
-Aeon ID is a new identity architecture designed from scratch. It relies on a local-first cryptographic model, predictable flows and a clean internal structure — not on legacy authentication methods.
-
-It serves as the trust layer for everything in the Aeon ecosystem.
-
-➡️ Repository: aeon-id (public) ➡️ Core engine: aeon-id-core (private)
-
-⸻
-
-🏢 StrucTime ERP
-
-Aeon ERP is the operational backbone of the platform. It aims to provide a modern, modular and understandable ERP foundation that avoids the complexity, rigidity and opacity of traditional systems.
-
-Identity, permissions and sensitive actions are handled directly through Aeon ID.
-
-➡️ Repository: aeon-erp (public) ➡️ Core implementation: aeon-erp-core (private)
-
-⸻
-
-🔒 StrucTime Vault (upcoming)
-
-Encrypted storage and key-management layer built for sensitive data and secure workflows.
-
-⸻
-
-⛓️ StrucTime Chain (upcoming)
-
-Lightweight modular chain designed for business logic, auditability and identity-backed operations.
+StrucTime is the operational backbone of the platform. It aims to provide a modern, modular and understandable ERP foundation that avoids the complexity, rigidity and opacity of traditional systems.
 
 ⸻
 
@@ -50,13 +24,6 @@ Aeon aims to provide a consistent, secure and understandable foundation for mode
 
 Our identity layer powers the ERP. The ERP powers the applications. And the whole ecosystem rests on a secure and coherent model.
 
-⸻
-
-📚 Public Repositories • aeon-id — identity architecture (public) • aeon-erp — ERP foundation (public)
-
-⸻
-
-🔒 Private Core Repositories • aeon-id-core — identity engine • aeon-erp-core — ERP engine • aeon-vault — encrypted storage • aeon-chain — modular chain
 
 ⸻
 
