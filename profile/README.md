@@ -18,7 +18,7 @@ Une base technique unique, hébergée en France. Les produits partagent le même
 | :-- | :-- | :-- |
 | **StrucTime** | Plateforme de gestion d'entreprise, multi-tenant, conformité française intégrée | `production` |
 | **StrucTime LWM** | Large World Model pour systèmes dynamiques | `recherche` |
-| **LLM 7B** | Modèle de langage souverain, entraîné sur infrastructure interne | `développement` |
+| **StrucTime 7B** | Modèle de langage souverain, entraîné from scratch | `développement` |
 | **Furnace** | Moteur de jumeau numérique et de simulation physique | `développement` |
 | **Sphinx** | Générateur de mondes synthétiques et de scénarios | `développement` |
 
@@ -31,13 +31,12 @@ Une base technique unique, hébergée en France. Les produits partagent le même
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
 
-## Ingénierie
+## Innovation
 
-- Typé de bout en bout, clients d'API générés, zéro dérive silencieuse
-- Multi-tenant, isolation stricte des données par entreprise
-- Conformité encodée dans le code : NF525, RGPD, facturation électronique
-- Audit de sécurité indépendant en 2026
-- IA branchée sur les données réelles, jamais hors du contexte de l'entreprise
+- Modèle de langage souverain, entraîné from scratch
+- Large World Models, une classe de modèles pour la dynamique des systèmes
+- Jumeaux numériques et simulation physique
+- Mondes synthétiques pour l'entraînement et l'évaluation
 
 <div align="center">
 
