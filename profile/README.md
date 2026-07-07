@@ -1,12 +1,10 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="AEON Systems" src="assets/hero-dark.svg" width="100%">
-</picture>
+<img src="assets/logo.png" width="76" alt="AEON Systems" />
 
-<br/><br/>
+# AEON Systems
+
+**Logiciels et intelligence artificielle souverains, conçus en France**
 
 [![Site](https://img.shields.io/badge/aeon--systems.fr-0d0e12?style=for-the-badge)](https://aeon-systems.fr)
 [![StrucTime](https://img.shields.io/badge/StrucTime-structime.app-4361ee?style=for-the-badge)](https://structime.app)
@@ -17,33 +15,21 @@
 
 ---
 
-AEON Systems conçoit les logiciels et les systèmes d'intelligence artificielle sur lesquels les entreprises s'appuient. Chaque capacité est un service indépendant, avec ses propres données et sa propre enveloppe de mise à l'échelle, assemblés en une plateforme unique. Conçu et hébergé en France.
+AEON Systems conçoit les logiciels et les systèmes d'intelligence artificielle sur lesquels les entreprises s'appuient. Une base technique unique, hébergée en France, sur laquelle chaque produit progresse et les autres en bénéficient.
 
 ## Ce que nous construisons
 
-| Domaine | Périmètre |
-| :-- | :-- |
-| **Identité et signature** | Signature électronique, onboarding, vérification d'identité |
-| **Conformité** | Facturation, archivage à valeur probante, automatisation réglementaire |
-| **IA appliquée** | Compréhension documentaire, recherche sémantique, agents, modèles du monde |
-| **Cybersécurité et supervision** | Contrôles continus, télémétrie, surveillance à l'exécution |
-| **Infrastructure** | Le socle partagé qui relie l'ensemble des services |
+**StrucTime** est un logiciel de gestion d'entreprise en production, pensé pour le terrain. Il couvre le cycle métier des PME françaises : devis et facturation, achats, stock et catalogue, pointage, régie, SAV, comptabilité, signature électronique et documents. La conformité française est intégrée, de la facture NF525 à l'archivage à valeur probante.
 
-## StrucTime
-
-[**StrucTime**](https://structime.app) est notre plateforme de terrain pour les PME françaises, avec la conformité légale intégrée dans chaque module opérationnel. Elle repose sur les mêmes services modulaires, avec une couche d'IA sur tout le produit. StrucTime est la marque déposée d'AEON Systems.
-
-## Recherche
-
-AEON Research développe des systèmes d'IA souverains. [**StrucTime LWM**](https://github.com/Aeon-HQ/structime-lwm) est un Large World Model pour systèmes dynamiques, entraîné et évalué sur données réelles.
+**La gamme IA** est en développement, branchée sur les données réelles de l'entreprise : modèles du monde avec [StrucTime LWM](https://github.com/Aeon-HQ/structime-lwm), assistants ancrés et compréhension documentaire.
 
 ## Ingénierie
 
-- **Modulaire par défaut.** Chaque capacité est un service indépendant, avec ses données et son cycle de vie.
-- **IA native.** Modèles, recherche sémantique et agents font partie de l'architecture.
-- **Conformité par le code.** La réglementation française et européenne est encodée dans la plateforme.
-- **Typé de bout en bout.** Des clients typés générés maintiennent les services alignés.
-- **Pensé pour le terrain.** Vitesse et clarté pour celles et ceux qui opèrent l'entreprise.
+- **Monorepo TypeScript**, React et NestJS, typé de bout en bout, clients générés.
+- **Multi-tenant**, avec isolation stricte des données par entreprise.
+- **Conformité par le code** : NF525, RGPD et facturation électronique encodées dans la plateforme.
+- **Sécurité auditée** par un tiers indépendant en 2026.
+- **IA sur données réelles**, conçue pour rester dans le contexte de chaque entreprise.
 
 <div align="center">
 
