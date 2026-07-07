@@ -8,42 +8,42 @@
 
 <br/><br/>
 
-[![Website](https://img.shields.io/badge/aeon--systems.fr-0d0e12?style=for-the-badge)](https://aeon-systems.fr)
+[![Site](https://img.shields.io/badge/aeon--systems.fr-0d0e12?style=for-the-badge)](https://aeon-systems.fr)
 [![StrucTime](https://img.shields.io/badge/StrucTime-structime.app-4361ee?style=for-the-badge)](https://structime.app)
-[![France](https://img.shields.io/badge/Built_in-France-3349d4?style=for-the-badge)](#)
-[![Audit](https://img.shields.io/badge/Independently_audited-2026-16161c?style=for-the-badge)](#)
+[![France](https://img.shields.io/badge/Conçu_en-France-3349d4?style=for-the-badge)](#)
+[![Audit](https://img.shields.io/badge/Audit_sécurité-2026-16161c?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-AEON Systems is an engineering studio building the software and applied AI that companies run on. Every capability ships as an independent service, with its own data and its own scaling envelope, composed into a single platform. Designed and hosted in France.
+AEON Systems conçoit les logiciels et les systèmes d'intelligence artificielle sur lesquels les entreprises s'appuient. Chaque capacité est un service indépendant, avec ses propres données et sa propre enveloppe de mise à l'échelle, assemblés en une plateforme unique. Conçu et hébergé en France.
 
-## What we build
+## Ce que nous construisons
 
-| Domain | Coverage |
+| Domaine | Périmètre |
 | :-- | :-- |
-| **Identity & Signature** | Electronic signature, onboarding, identity verification |
-| **Compliance** | Invoicing, probative archiving, regulatory automation |
-| **Applied AI** | Document understanding, retrieval, agents, world models |
-| **Cyber & Monitoring** | Continuous controls, telemetry, runtime monitoring |
-| **Infrastructure** | The shared backbone across every service |
+| **Identité et signature** | Signature électronique, onboarding, vérification d'identité |
+| **Conformité** | Facturation, archivage à valeur probante, automatisation réglementaire |
+| **IA appliquée** | Compréhension documentaire, recherche sémantique, agents, modèles du monde |
+| **Cybersécurité et supervision** | Contrôles continus, télémétrie, surveillance à l'exécution |
+| **Infrastructure** | Le socle partagé qui relie l'ensemble des services |
 
 ## StrucTime
 
-[**StrucTime**](https://structime.app) is our field platform for French SMBs, with legal compliance built into every operational module. It runs on the same modular services, with an AI layer woven across the product. StrucTime is a registered trademark of AEON Systems.
+[**StrucTime**](https://structime.app) est notre plateforme de terrain pour les PME françaises, avec la conformité légale intégrée dans chaque module opérationnel. Elle repose sur les mêmes services modulaires, avec une couche d'IA sur tout le produit. StrucTime est la marque déposée d'AEON Systems.
 
-## Research
+## Recherche
 
-AEON Research develops sovereign AI systems. [**StrucTime LWM**](https://github.com/Aeon-HQ/structime-lwm) is a Large World Model for dynamical systems, trained and evaluated on real data.
+AEON Research développe des systèmes d'IA souverains. [**StrucTime LWM**](https://github.com/Aeon-HQ/structime-lwm) est un Large World Model pour systèmes dynamiques, entraîné et évalué sur données réelles.
 
-## Principles
+## Ingénierie
 
-- **Modular by default.** Every capability is an independent service with its own data.
-- **AI-native.** Models, retrieval and agents belong to the architecture.
-- **Compliance as code.** French and EU regulation is encoded in the platform.
-- **Type-safe end to end.** Generated typed clients keep every service in sync.
-- **Built for the field.** Speed and clarity for the people who operate the business.
+- **Modulaire par défaut.** Chaque capacité est un service indépendant, avec ses données et son cycle de vie.
+- **IA native.** Modèles, recherche sémantique et agents font partie de l'architecture.
+- **Conformité par le code.** La réglementation française et européenne est encodée dans la plateforme.
+- **Typé de bout en bout.** Des clients typés générés maintiennent les services alignés.
+- **Pensé pour le terrain.** Vitesse et clarté pour celles et ceux qui opèrent l'entreprise.
 
 <div align="center">
 
