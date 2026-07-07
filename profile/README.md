@@ -1,6 +1,8 @@
 <div align="center">
 
-**Logiciels et intelligence artificielle souverains, conçus en France.**
+# Logiciels et intelligence artificielle souverains
+
+Conçus en France.
 
 [![aeon-systems.fr](https://img.shields.io/badge/aeon--systems.fr-0d0e12?style=flat-square)](https://aeon-systems.fr)
 [![StrucTime](https://img.shields.io/badge/StrucTime-structime.app-4361ee?style=flat-square)](https://structime.app)
