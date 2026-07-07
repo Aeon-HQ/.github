@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aeon-HQ/.github/main/assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aeon-HQ/.github/main/assets/hero-light.svg">
-  <img alt="AEON Systems" src="https://raw.githubusercontent.com/Aeon-HQ/.github/main/assets/hero-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img alt="AEON Systems" src="assets/hero-dark.svg" width="100%">
 </picture>
 
 <br/><br/>
