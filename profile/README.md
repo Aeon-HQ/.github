@@ -1,54 +1,52 @@
 <div align="center">
 
-# Aeon HQ
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aeon-HQ/.github/main/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aeon-HQ/.github/main/assets/hero-light.svg">
+  <img alt="AEON Systems" src="https://raw.githubusercontent.com/Aeon-HQ/.github/main/assets/hero-dark.svg" width="100%">
+</picture>
 
-### Modular security, identity and infrastructure for modern companies
+<br/><br/>
 
-[![Website](https://img.shields.io/badge/aeon--systems.fr-0b0b0c?style=for-the-badge&logo=icloud&logoColor=white)](https://aeon-systems.fr)
-[![StrucTime](https://img.shields.io/badge/StrucTime-structime.app-2563eb?style=for-the-badge)](https://structime.app)
-[![Location](https://img.shields.io/badge/France-EU-111?style=for-the-badge)](#)
+[![Website](https://img.shields.io/badge/aeon--systems.fr-0d0e12?style=for-the-badge)](https://aeon-systems.fr)
+[![StrucTime](https://img.shields.io/badge/StrucTime-structime.app-4361ee?style=for-the-badge)](https://structime.app)
+[![France](https://img.shields.io/badge/Built_in-France-3349d4?style=for-the-badge)](#)
+[![Audit](https://img.shields.io/badge/Independently_audited-2026-16161c?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-We are an engineering studio building the primitives modern companies are missing:
-**trusted identity, verifiable signatures, compliant documents, and the infrastructure
-that ties them together** — designed to be composed, not bought as one monolith.
-
-Everything we ship is **modular by default** and **AI-native**: independent services,
-their own data, their own scaling envelope. You adopt one brick or the whole stack.
+AEON Systems is an engineering studio building the software and applied AI that companies run on. Every capability ships as an independent service, with its own data and its own scaling envelope, composed into a single platform. Designed and hosted in France.
 
 ## What we build
 
-| Domain | What it covers |
-| --- | --- |
-| 🔐 **Identity & Signature** | Electronic signature, onboarding & identity verification |
-| 🧾 **Compliance** | Invoicing, probative archiving, regulatory automation |
-| 🤖 **Applied AI** | LLM-assisted workflows, document understanding, retrieval & agents |
-| 🛡️ **Cyber & Monitoring** | Continuous controls, telemetry, runtime monitoring |
-| 🏗️ **Infrastructure** | The shared backbone wiring the services together |
+| Domain | Coverage |
+| :-- | :-- |
+| **Identity & Signature** | Electronic signature, onboarding, identity verification |
+| **Compliance** | Invoicing, probative archiving, regulatory automation |
+| **Applied AI** | Document understanding, retrieval, agents, world models |
+| **Cyber & Monitoring** | Continuous controls, telemetry, runtime monitoring |
+| **Infrastructure** | The shared backbone across every service |
 
-## Flagship product — StrucTime
+## StrucTime
 
-[**StrucTime**](https://structime.app) is our field-oriented SaaS for French SMBs —
-built for the people on the ground, not just back-office admins. French legal
-compliance is built in, across 44 operational modules.
+[**StrucTime**](https://structime.app) is our field platform for French SMBs, with legal compliance built into every operational module. It runs on the same modular services, with an AI layer woven across the product. StrucTime is a registered trademark of AEON Systems.
 
-Under the hood it runs on a **modular set of services** — signature, invoicing,
-documents, onboarding, compliance, cyber and monitoring — each owning its own data
-and scaling envelope, with an AI layer woven across the product.
+## Research
 
-## Engineering principles
+AEON Research develops sovereign AI systems. [**StrucTime LWM**](https://github.com/Aeon-HQ/structime-lwm) is a Large World Model for dynamical systems, trained and evaluated on real data.
 
-- **Modular over monolithic** — every capability is an independent service.
-- **AI-native** — LLMs, retrieval and agents are part of the architecture, not a bolt-on.
-- **Compliance as code** — French & EU regulation encoded, not bolted on.
-- **Type-safe end to end** — generated typed clients, zero silent runtime drift.
-- **Built for the field** — speed and clarity for real operational users.
+## Principles
+
+- **Modular by default.** Every capability is an independent service with its own data.
+- **AI-native.** Models, retrieval and agents belong to the architecture.
+- **Compliance as code.** French and EU regulation is encoded in the platform.
+- **Type-safe end to end.** Generated typed clients keep every service in sync.
+- **Built for the field.** Speed and clarity for the people who operate the business.
 
 <div align="center">
 
-**[aeon-systems.fr](https://aeon-systems.fr)** · contact@aeon-systems.fr
+<sub>[aeon-systems.fr](https://aeon-systems.fr) &nbsp;·&nbsp; contact@aeon-systems.fr &nbsp;·&nbsp; France</sub>
 
 </div>
