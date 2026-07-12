@@ -17,11 +17,11 @@ Conçus en France.
 
 | Projet | Description | Statut |
 | :-- | :-- | :-- |
-| **StrucTime** | Plateforme de gestion d'entreprise, multi-tenant, conformité française intégrée | `production` |
-| **StrucTime LWM** | Large World Model pour systèmes dynamiques | `recherche` |
-| **StrucTime 7B** | Modèle de langage souverain, entraîné from scratch | `recherche` |
-| **Furnace** | Moteur de jumeau numérique et de simulation physique | `développement` |
-| **Sphinx** | Générateur de mondes synthétiques et de scénarios | `développement` |
+| **StrucTime** | Plateforme de gestion d'entreprise, multi-tenant, conformité française intégrée | `Production` |
+| **StrucTime LWM** | Large World Model pour systèmes dynamiques | `Recherche` |
+| **StrucTime 7B** | Modèle de langage souverain, entraîné from scratch | `Recherche` |
+| **Furnace** | Moteur de jumeau numérique et de simulation physique | `Développement` |
+| **Sphinx** | Générateur de mondes synthétiques et de scénarios | `Développement` |
 
 ## Stack
 
