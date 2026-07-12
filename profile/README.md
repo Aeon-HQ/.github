@@ -12,7 +12,6 @@ Conçus en France.
 
 ---
 
-Une base technique unique, hébergée en France. Les produits partagent le même socle : un gain sur l'un profite aux autres.
 
 ## Projets
 
@@ -20,7 +19,7 @@ Une base technique unique, hébergée en France. Les produits partagent le même
 | :-- | :-- | :-- |
 | **StrucTime** | Plateforme de gestion d'entreprise, multi-tenant, conformité française intégrée | `production` |
 | **StrucTime LWM** | Large World Model pour systèmes dynamiques | `recherche` |
-| **StrucTime 7B** | Modèle de langage souverain, entraîné from scratch | `développement` |
+| **StrucTime 7B** | Modèle de langage souverain, entraîné from scratch | `recherche` |
 | **Furnace** | Moteur de jumeau numérique et de simulation physique | `développement` |
 | **Sphinx** | Générateur de mondes synthétiques et de scénarios | `développement` |
 
@@ -32,6 +31,7 @@ Une base technique unique, hébergée en France. Les produits partagent le même
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 
 ## Innovation
 
