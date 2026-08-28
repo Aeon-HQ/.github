@@ -18,10 +18,10 @@ Conçus en France.
 
 | Produit | Description | Statut |
 | :-- | :-- | :-- |
-| **StrucTime Gestion** | ERP pour le bâtiment et les services — devis, chantiers, achats, paie, comptabilité, facturation électronique | `Production` |
+| **StrucTime Gestion** | ERP pour le bâtiment et les services : devis, chantiers, achats, paie, comptabilité, facturation électronique | `Production` |
 | **StrucTime Code** | Environnement local d'ingénierie logicielle vérifiable | `Développement` |
-| **StrucTime OCR** | Extraction documentaire sans IA — PDF, tableurs et images vers JSON ou Markdown, sur processeur | `Développement` |
-| **Furnace** | Moteur de jumeau numérique et de simulation physique | `Développement` |
+| **StrucTime OCR** | Extraction documentaire sans IA : PDF, tableurs et images vers JSON ou Markdown, sur processeur | `Développement` |
+| **Furnace** | Moteur de monde numérique et de simulation physique | `Développement` |
 
 ## Intelligence artificielle
 
@@ -45,12 +45,12 @@ Conçus en France.
 ## Conformité
 
 Conçu pour le droit français, pas seulement traduit : plan comptable, TVA, paie, et la réforme de la
-**facturation électronique 2026** — plateforme agréée, e-reporting, Factur-X et UBL.
+**facturation électronique 2026** - Solution compatible, e-reporting, Factur-X et UBL.
 
 Hébergé en France.
 
 <div align="center">
 
-<sub>[aeon-systems.fr](https://aeon-systems.fr) &nbsp;·&nbsp; contact@aeon-systems.fr &nbsp;·&nbsp; France</sub>
+<sub>[structime.com](https://structime.com) &nbsp;·&nbsp; contact@aeon-systems.fr &nbsp;·&nbsp; France</sub>
 
 </div>
