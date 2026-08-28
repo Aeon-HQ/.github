@@ -1,87 +1,56 @@
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/graph.svg?title=AEON%20Systems&subtitle=Logiciels%20et%20intelligence%20artificielle%20souverains&mode=dark&align=left&font=geist-mono&border=false" /><img alt="AEON Systems" src="https://shieldcn.dev/header/graph.svg?title=AEON%20Systems&subtitle=Logiciels%20et%20intelligence%20artificielle%20souverains&mode=light&align=left&font=geist-mono&border=false" /></picture>
-</p>
-
-<p align="center">
-  <img alt="France" src="https://shieldcn.dev/badge/concu-en-France.svg?variant=branded&size=xs" />
-  <img alt="Rust" src="https://shieldcn.dev/badge/Rust-F74C00.svg?variant=branded&size=xs&logo=rust" />
-  <img alt="TypeScript" src="https://shieldcn.dev/badge/TypeScript-3178C6.svg?variant=branded&size=xs&logo=typescript" />
-  <img alt="C#" src="https://shieldcn.dev/badge/.NET-512BD4.svg?variant=branded&size=xs&logo=dotnet" />
-  <img alt="Go" src="https://shieldcn.dev/badge/Go-00ADD8.svg?variant=branded&size=xs&logo=go" />
-  <img alt="PostgreSQL" src="https://shieldcn.dev/badge/PostgreSQL-4169E1.svg?variant=branded&size=xs&logo=postgresql" />
-</p>
-
 <div align="center">
 
-**Une base technique unique, hébergée en France. Nos produits partagent le même socle : ce qu'on corrige sur l'un profite aux autres, sans les redéployer. C'est ce qui permet à une petite équipe de tenir plusieurs logiciels de qualité industrielle.**
+# Logiciels et intelligence artificielle souverains
+
+Conçus en France.
+
+[![aeon-systems.fr](https://img.shields.io/badge/aeon--systems.fr-0d0e12?style=flat-square)](https://aeon-systems.fr)
+[![StrucTime](https://img.shields.io/badge/StrucTime-structime.app-4361ee?style=flat-square)](https://structime.app)
+[![Audit sécurité](https://img.shields.io/badge/audit_sécurité-2026-16161c?style=flat-square)](#)
 
 </div>
 
 ---
 
-## Les produits
+**Software & AI Labs.** Des logiciels de gestion pour les entreprises, et une recherche en intelligence artificielle qui s'y adosse.
 
-| Produit | Ce qu'il fait | Statut |
+## Logiciels
+
+| Produit | Description | Statut |
 | :-- | :-- | :-- |
-| **StrucTime Gestion** | Gestion d'entreprise pour le bâtiment et les services — devis, chantiers, achats, paie, comptabilité, facturation électronique | `Production` |
+| **StrucTime Gestion** | ERP pour le bâtiment et les services — devis, chantiers, achats, paie, comptabilité, facturation électronique | `Production` |
+| **StrucTime Code** | Environnement local d'ingénierie logicielle vérifiable | `Développement` |
+| **StrucTime OCR** | Extraction documentaire sans IA — PDF, tableurs et images vers JSON ou Markdown, sur processeur | `Développement` |
 | **Furnace** | Moteur de jumeau numérique et de simulation physique | `Développement` |
-| **Sphinx** | Générateur de mondes synthétiques et de scénarios d'entraînement | `Développement` |
-| **StrucTime LWM** | *Large World Model* pour la dynamique des systèmes | `Recherche` |
+
+## Intelligence artificielle
+
+| Projet | Description | Statut |
+| :-- | :-- | :-- |
+| **StrucTime LWM** | *Large World Models* pour la dynamique des systèmes | `Recherche` |
 | **StrucTime 7B** | Modèle de langage souverain, entraîné *from scratch* | `Recherche` |
+| **StrucTime Agent** | Agent autonome sur le socle StrucTime | `Prototype` |
+| **Sphinx** | Générateur de mondes synthétiques et de scénarios, pour éprouver la détection de risque | `Développement` |
 
-## Le socle
+## Stack
 
-Ce qui rend le reste possible. Deux moitiés, et la distinction commande tout :
-
-Les **services** portent un état et vivent hors des produits. On les corrige une fois, tous les
-logiciels en profitent — sans qu'aucun ne soit redéployé. Le **framework** est la bibliothèque mince
-que chaque produit compile avec lui : il fournit le démarrage, la configuration, le routage, les
-erreurs, l'observabilité, et les clients typés des services.
-
-```
-   PRODUIT  (le métier, et rien d'autre)
-        │
-   framework          la bibliothèque, mince et versionnée
-        │
-   ─────┴─────────────────────────────────────────────────
-   auth · tenants · billing · files · notify · print      les services, opérés à part
-```
-
-| Dépôt | Ce qu'il porte |
-| :-- | :-- |
-| **auth** | Le moteur d'identité — OAuth 2.0, OIDC, jetons de service, clés ES256 |
-| **tenants** | Les espaces clients, leurs membres, leurs consentements |
-| **billing** | Abonnements, formules, essais, échéances, moyens de paiement |
-| **files** | Le dépôt de fichiers — empreintes, idempotence, liens à durée limitée |
-| **notify** | Les messages sortants et le suivi de leur remise |
-| **print** | Le rendu de documents, reproductible à l'octet près |
-| **framework** | La base de départ de chaque logiciel |
-| **communs** | Le vocabulaire partagé : erreurs normalisées, horodatage, jetons |
-
-## Comment on travaille
-
-**Correct est structurel, jamais disciplinaire.** Si une règle ne peut être tenue qu'à la main, on la
-rend impossible par construction — un état invalide qu'on ne peut pas représenter vaut mieux que dix
-validations qu'il faut penser à appeler.
-
-**Une garde qu'on n'a pas vue échouer ne prouve rien.** Chaque protection est cassée volontairement
-pour vérifier qu'elle rougit. Une épreuve qui ne peut pas échouer est une décoration.
-
-**On mesure, on ne suppose pas.** Un raisonnement juste sur une bibliothèque qu'on n'a pas ouverte
-reste un raisonnement. Les nombres d'un rapport viennent d'une exécution, ou ils n'y sont pas.
-
-**On dit ce qu'on n'a pas prouvé.** Chaque livraison nomme ses trous. C'est la partie du rapport qui
-sert le plus, et celle qu'on lit en premier.
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![.NET](https://img.shields.io/badge/.NET-512bd4?style=flat-square&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
 
 ## Conformité
 
-Conçu pour le droit français, et pas seulement traduit : plan comptable, TVA, paie, et la réforme de
-la **facturation électronique 2026** — raccordement à une plateforme agréée, e-reporting, formats
-Factur-X et UBL.
+Conçu pour le droit français, pas seulement traduit : plan comptable, TVA, paie, et la réforme de la
+**facturation électronique 2026** — plateforme agréée, e-reporting, Factur-X et UBL.
 
-Hébergement en France, chez un opérateur français.
+Hébergé en France.
 
 <div align="center">
-<br />
-<sub><a href="https://aeon-systems.fr">aeon-systems.fr</a> &nbsp;·&nbsp; <a href="https://structime.app">structime.app</a> &nbsp;·&nbsp; contact@aeon-systems.fr</sub>
+
+<sub>[aeon-systems.fr](https://aeon-systems.fr) &nbsp;·&nbsp; contact@aeon-systems.fr &nbsp;·&nbsp; France</sub>
+
 </div>
