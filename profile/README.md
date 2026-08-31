@@ -5,7 +5,7 @@
 Conçus en France.
 
 [![aeon-systems.fr](https://img.shields.io/badge/aeon--systems.fr-0d0e12?style=flat-square)](https://aeon-systems.fr)
-[![StrucTime](https://img.shields.io/badge/StrucTime-structime.app-4361ee?style=flat-square)](https://structime.app)
+[![StrucTime](https://img.shields.io/badge/StrucTime-structime.app-4361ee?style=flat-square)](https://structime.com)
 [![Audit sécurité](https://img.shields.io/badge/audit_sécurité-2026-16161c?style=flat-square)](#)
 
 </div>
