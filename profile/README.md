@@ -19,9 +19,10 @@ Conçus en France.
 | Produit | Description | Statut |
 | :-- | :-- | :-- |
 | **StrucTime Gestion** | ERP pour le bâtiment et les services : devis, chantiers, achats, paie, comptabilité, facturation électronique | `Production` |
+| **Furnace** | Moteur de monde numérique et de simulation physique | `Développement` |
 | **StrucTime Code** | Environnement local d'ingénierie logicielle vérifiable | `Développement` |
 | **StrucTime OCR** | Extraction documentaire sans IA : PDF, tableurs et images vers JSON ou Markdown, sur processeur | `Développement` |
-| **Furnace** | Moteur de monde numérique et de simulation physique | `Développement` |
+
 
 ## Intelligence artificielle
 
@@ -29,22 +30,12 @@ Conçus en France.
 | :-- | :-- | :-- |
 | **StrucTime LWM** | *Large World Models* pour la dynamique des systèmes | `Recherche` |
 | **StrucTime 7B** | Modèle de langage souverain, entraîné *from scratch* | `Recherche` |
-| **StrucTime Agent** | Agent autonome sur le socle StrucTime | `Prototype` |
-| **Sphinx** | Générateur de mondes synthétiques et de scénarios, pour éprouver la détection de risque | `Développement` |
 
-## Stack
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Conformité
 
 Conçu pour le droit français, pas seulement traduit : plan comptable, TVA, paie, et la réforme de la
-**facturation électronique 2026** - Solution compatible, e-reporting, Factur-X et UBL.
+**facturation électronique 2026/27** - Solution compatible, e-reporting, Factur-X et UBL.
 
 Hébergé en France.
 
