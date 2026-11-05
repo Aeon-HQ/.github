@@ -1,23 +1,31 @@
-<div align="center">
+# Aeon HQ
 
-# Aeon HQ — `.github`
+Aeon HQ est l'organisation GitHub d'AEON Systems. Elle regroupe les dépôts des logiciels de gestion pour les entreprises et les projets de recherche en intelligence artificielle qui s'y adossent.
 
-Organization profile &amp; shared community-health files for [**Aeon HQ**](https://github.com/Aeon-HQ).
+Le profil public de l'organisation, affiché sur github.com/Aeon-HQ, se trouve dans [profile/README.md](profile/README.md).
 
-[![Website](https://img.shields.io/badge/aeon--systems.fr-0b0b0c?style=for-the-badge)](https://aeon-systems.fr)
+## Logiciels
 
-</div>
+| Produit | Description |
+|---|---|
+| StrucTime Gestion | ERP pour le bâtiment et les services : devis, chantiers, achats, paie, comptabilité, facturation électronique |
+| StrucTime Code | Environnement local d'ingénierie logicielle vérifiable |
+| StrucTime OCR | Extraction documentaire sans IA, sur processeur : PDF, tableurs et images vers JSON ou Markdown |
+| Furnace | Moteur de jumeau numérique et de simulation physique |
 
----
+## Recherche en intelligence artificielle
 
-This repository powers what you see on the [organization page](https://github.com/Aeon-HQ)
-and holds the defaults shared across all Aeon HQ repositories.
+| Projet | Description |
+|---|---|
+| StrucTime LWM | Modèles du monde pour la dynamique des systèmes |
+| StrucTime 7B | Modèle de langage entraîné depuis zéro |
+| StrucTime Agent | Agent autonome sur le socle StrucTime |
+| Sphinx | Générateur de mondes synthétiques et de scénarios pour tester la détection de risque |
 
-## Contents
+## Sites
 
-- **`profile/README.md`** — the public org profile rendered on github.com/Aeon-HQ
-- Shared community-health files (issue & PR templates, contributing guidelines,
-  code of conduct) inherited by every repo in the org
+Les sites publics d'AEON Systems se trouvent sur [aeon-systems.fr](https://aeon-systems.fr) et [structime.com](https://structime.com).
 
-> Looking for what we build? Start with the [organization profile](https://github.com/Aeon-HQ)
-> or visit [aeon-systems.fr](https://aeon-systems.fr).
+## Licence
+
+Code propriétaire. © AEON Systems, tous droits réservés.
