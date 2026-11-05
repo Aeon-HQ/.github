@@ -24,7 +24,13 @@ Le profil public de l'organisation, affiché sur github.com/Aeon-HQ, se trouve d
 
 ## Sites
 
-Les sites publics d'AEON Systems se trouvent sur [aeon-systems.fr](https://aeon-systems.fr) et [structime.com](https://structime.com).
+| Adresse | Contenu |
+|---|---|
+| [structime.app](https://structime.app) | Le logiciel StrucTime Gestion |
+| [espace.structime.com](https://espace.structime.com) | L'espace client : inscription, abonnement, utilisateurs |
+| [doc.structime.app](https://doc.structime.app) | Le centre d'aide |
+| [structime.com](https://structime.com) | Le site de présentation des produits |
+| [aeon-systems.fr](https://aeon-systems.fr) | Le site du groupe AEON Systems |
 
 ## Licence
 
